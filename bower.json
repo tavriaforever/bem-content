@@ -22,7 +22,7 @@
   "dependencies": {
     "bem-core": "v2.5.0",
     "highlight": "~7.0.1",
-    "bem-social": "~0.2.0"
+    "bem-social": "git://github.com/tavriaforever/bem-social.git#master"
   },
   "devDependencies": {
     "bem-components": "3b41cd9d817f51b94bead414409a099913509299",
@@ -30,6 +30,7 @@
   },
   "license": "MIT",
   "resolutions": {
-    "bem-core": "v2.5.0"
+    "bem-core": "v2.5.0",
+    "bem-components": "3b41cd9d817f51b94bead414409a099913509299"
   }
 }
